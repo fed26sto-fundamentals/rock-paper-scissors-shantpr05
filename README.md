@@ -48,7 +48,7 @@ Define two parameters for playRound: humanChoice and computerChoice. Use these t
 Make your function’s humanChoice parameter case-insensitive so that players can input “rock”, “ROCK”, “RocK”, or other variations.
 Write the code for your playRound function to console.log a string value representing the round winner, such as: “You lose! Paper beats Rock”.
 Increment the humanScore or computerScore variable based on the round winner.
-####Example code:
+#### Example code:
 
 ```
 function playRound(humanChoice, computerChoice) {
