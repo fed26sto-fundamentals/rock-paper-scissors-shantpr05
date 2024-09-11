@@ -1,4 +1,4 @@
-console.log("welcome to rockpaper scissors game");
+console.log("welcome to Rock Paper Scissors Game");
 function playGame() {
     let humanScore = 0;
     let computerScore = 0;
